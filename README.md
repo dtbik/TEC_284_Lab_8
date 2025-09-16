@@ -1,0 +1,1 @@
+This utilizes an arduino, breadboard, resistors, LEDs, and a button to simulate a typical traffic light. THe button acts as a test button and turns on all the lights when pressed, then turns them off.
